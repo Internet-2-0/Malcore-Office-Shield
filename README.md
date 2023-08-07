@@ -8,6 +8,8 @@ The Malcore Office Shield acts as a fortress, bolstering your digital environmen
 
 Discover the power of the Malcore Office Shield and unlock a new level of security, and productivity in your work environment. Take control of your attachments, bolster your security, and focus on what matters most - getting things done with peace of mind.
 
+You can learn how to install the Malcore Office Shield directly from the manifest [here](https://support.malcore.io/hc/en-au/articles/20516283231641-Malcore-Office-Shield#h_01H5ARWWVAWTK7YBY10RS9F33Y)
+
 
 ![mos_testing_1](https://github.com/Internet-2-0/Malcore-Office-Shield-Releases/assets/14183473/be743497-736c-41ab-9af4-1d98406c11ae)
 ![mos_testing_2](https://github.com/Internet-2-0/Malcore-Office-Shield-Releases/assets/14183473/5b669620-0d7b-4ecb-847a-d26058d902e8)
